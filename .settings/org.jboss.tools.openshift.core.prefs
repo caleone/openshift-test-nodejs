@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://root@10.26.62.110\:8443
+org.jboss.tools.openshift.DeployProject=nodejs-ex
+org.jboss.tools.openshift.Service=eclipse-carmine@nodejs-example
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/nodejs-ex}
